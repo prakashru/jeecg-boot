@@ -73,14 +73,23 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 为什么选择JEECG-BOOT?
 -----------------------------------
 * 1.采用最新主流前后分离框架（Springboot+Mybatis+antd），容易上手; 代码生成器依赖性低,灵活的扩展能力，可快速实现二次开发;
+* 1. Adopt the latest mainstream front and rear separation framework (Springboot and Mybatis-antd), easy to get started; Code generator dependence is low, flexible expansion ability, can quickly achieve secondary development;
 * 2.支持微服务SpringCloud Alibaba(Nacos、Gateway、Sentinel、Skywalking)，提供切换机制支持单体和微服务自由切换
+* 2. Supports microservices SpringCloud Alibaba (Nacos, Gateway, Sentinel, Skywalking) and provides switching mechanisms to support single and microservices free switching
 * 3.开发效率高,采用代码生成器，单表、树列表、一对多、一对一等数据模型，增删改查功能一键生成，菜单配置直接使用；
+* 3. High development efficiency, the use of code generator, single table, tree list, one-to-many, one-to-one data model, add or remove the function of one-click generation, menu configuration directly used.
 * 4.代码生成器提供强大模板机制，支持自定义模板，目前提供四套风格模板（单表两套、树模型一套、一对多三套）
+* 4. Code Generator provides a powerful template mechanism to support custom templates, currently providing four sets of style templates (two sets of single tables, one set of tree models, one set of one-to-many three sets)
 * 5.代码生成器非常智能，在线业务建模、在线配置、所见即所得支持23种类控件，一键生成前后端代码，大幅度提升开发效率，不再为重复工作发愁。
+* 5. Code generator is very intelligent, online business modeling, online configuration, what you get support 23 kinds of controls, one-click generation of front and rear code, greatly improve development efficiency, no longer worry about duplication of work.
 * 6.低代码能力：Online在线表单（无需编码，通过在线配置表单，实现表单的增删改查，支持单表、树、一对多、一对一等模型，实现人人皆可编码）
+* 6. Low code capability: Online online form (no coding, through online configuration of forms, to achieve the form of addition and deletion check, support single table, tree, one-to-many, one-to-one model, to achieve everyone can code)
 * 7.低代码能力：Online在线报表（无需编码，通过在线配置方式，实现数据报表，可以快速抽取数据，减轻开发压力，实现人人皆可编码）
+* 7. Low code capability: Online online reports (no coding, through online configuration, data reports, can quickly extract data, reduce development pressure, achieve coding for all)
 * 8.低代码能力：Online在线图表（无需编码，通过在线配置方式，实现曲线图，柱状图，数据报表等，支持自定义排版布局，实现人人皆可编码）
+* 8. Low code capability: Online online charts (no coding, through online configuration, to achieve graphs, histograms, data reports, etc., support custom layout layout, to achieve coding for everyone)
 * 9.封装完善的用户、角色、菜单、组织机构、数据字典、在线定时任务等基础功能，支持访问授权、按钮权限、数据权限等功能
+*  9. Well-packaged users, roles, menus, organizations, data dictionaries, online timing tasks and other basic functions, support access authorization, button permissions, data permissions and other functions
 * 10.常用共通封装，各种工具类(定时任务,短信接口,邮件发送,Excel导入导出等),基本满足80%项目需求
 * 11.简易Excel导入导出，支持单表导出和一对多表模式导出，生成的代码自带导入导出功能
 * 12.集成简易报表工具，图像报表和数据导出非常方便，可极其方便的生成图形报表、pdf、excel、word等报表；
